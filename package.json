@@ -1,0 +1,16 @@
+{
+  "name": "dbcc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "Baxtiyor & Abduvohid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
